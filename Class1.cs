@@ -7,6 +7,6 @@ namespace _81478
 {
     public class Class1
     {
-       // 
+       // sss
     }
 }
